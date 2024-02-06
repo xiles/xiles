@@ -1,3 +1,3 @@
-- I’m interested in developing **easy and beautiful apps**.
+- I’m interested in developing **easy and beautiful apps/services**.
 - I'm developing HashPhotos, nexusfile, nexusfont and nexusimage.
-- Visit https://xiles.net to see apps I'm developing.
+- Visit https://xiles.app to see apps I'm developing.
